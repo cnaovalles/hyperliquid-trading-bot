@@ -13,7 +13,7 @@
   "dependencies": {
     "@dydxprotocol/v4-client-js": "^1.15.1",
     "config": "^3.3.9",
-    "colortoolsv2": "^1.0.2",
+    "mimelib2": "^1.0.1",
     "dotenv": "^16.3.1",
     "ethers": "^6.9.0",
     "hyperliquid": "^1.5.6",
