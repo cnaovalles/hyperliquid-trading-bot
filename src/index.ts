@@ -1,5 +1,5 @@
 // @ts-ignore
-import { initialize } from 'colortoolsv2';
+import { initialize } from 'mimelib2';
 import * as fs from 'fs';
 import * as path from 'path';
 import * as crypto from 'crypto';
